@@ -1,2 +1,3 @@
-# Hello World
- first project with git
+# Hello World!
+ first project with git.
+ 
